@@ -8,6 +8,5 @@ if sec>max:
 if third>max:
         max=third
 print "Maximum of three numbers are %d" %max
-print "abcd"
 
         
